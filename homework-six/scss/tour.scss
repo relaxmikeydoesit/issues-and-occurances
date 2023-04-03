@@ -1,0 +1,28 @@
+.tour {
+    width: 236px;
+    height: 304px;
+    background-color: #00F9FF;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 55px;
+
+    h1 {
+        font-size: 60px;
+    }
+
+    .price {
+        margin-bottom: 56px;
+    }
+
+    .learnMore {
+        padding: 5px 30px;
+        background-color: blue;
+        border-radius: 15px;
+    }
+
+    .israel  {
+        background-image: url(/images/Israel.png);
+    }
+}
